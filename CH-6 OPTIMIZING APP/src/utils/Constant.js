@@ -1,0 +1,3 @@
+export const CDN_URL = "https://imgs.search.brave.com/he0Vy1L8J2tGSCeTnsDXzzAO6V641nFgG4GxQmCB6R0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I5LzIy/L2I0L2I5MjJiNDYz/OTljZjk0YmE1OTdl/NGYxOTNiYTQyNjI2/LS1sb2dvLWRlbGl2/ZXJ5LXJ1bm5pbmct/bWFuLmpwZw";
+
+export const LOGO_URL = "https://imgs.search.brave.com/fq5XQP7deYTygo4Hc4ABXWgiAdgR-YMk9RFVFTh56s8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcGljanVt/Ym8uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9mcmllcy1mb29k/LWZyZWUtcGhvdG8u/anBnP3c9NjAwJnF1/YWxpdHk9ODA";
